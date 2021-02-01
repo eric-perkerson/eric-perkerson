@@ -1,6 +1,6 @@
 ### Hey, I'm Eric!
 
-I'm a machine learning engineer and data scientist with a Phd in Mathematics from the University of Georgia. 
+I'm a machine learning engineer and data scientist with a Phd in Mathematics from the University of Georgia.
 
 Links
 - [Email](mailto:e.l.perkerson@gmail.com)
@@ -8,7 +8,7 @@ Links
 - [LinkedIn](https://www.linkedin.com/in/eric-perkerson)
 - [Résumé](https://www.ericperkerson.com/resume.pdf)
 - [Leetcode](https://leetcode.com/eric-perkerson/)
-- [Statistics Stackexchange](https://stats.stackexchange.com/users/256670/eric-perkerson).
+- [Statistics Stackexchange](https://stats.stackexchange.com/users/256670/eric-perkerson)
 
 <!--
 **eric-perkerson/eric-perkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
