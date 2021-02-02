@@ -10,6 +10,17 @@ Links
 - [Leetcode](https://leetcode.com/eric-perkerson/)
 - [Statistics Stackexchange](https://stats.stackexchange.com/users/256670/eric-perkerson)
 
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="Julia" width="55" height="55" />  
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55" />
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="PostgreSQL" width="55" height="55" />
+      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="PostgreSQL" width="55" height="55" />
+</p>
+
 <!--
 **eric-perkerson/eric-perkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
