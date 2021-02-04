@@ -8,17 +8,17 @@ Links
 - [LinkedIn](https://www.linkedin.com/in/eric-perkerson)
 - [Résumé](https://www.ericperkerson.com/resume.pdf)
 - [Leetcode](https://leetcode.com/eric-perkerson/)
-- [Statistics Stackexchange](https://stats.stackexchange.com/users/256670/eric-perkerson)
+- [Stackexchange](https://stackexchange.com/users/8533489/eric-perkerson)
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="Julia" width="55" height="55" />  
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55" />
-      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="PostgreSQL" width="55" height="55" />
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="PostgreSQL" width="55" height="55" />
+      <a href="https://www.python.org"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/></a>
+      <a href="https://www.java.com"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/></a>
+      <a href="https://julialang.org"><img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="Julia" width="55" height="55"/></a>
+      <a href="https://www.mysql.com"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="110" height="75"/></a>
+      <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/></a>
+      <a href="https://www.postgresql.org"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="55" height="55"/></a>
+      <a href="https://www.r-project.org"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R Programming Language" width="55" height="55"/></a>
+      <a href="https://numpy.org"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy Python Library" width="55" height="55"/></a>
 </p>
 
 <!--
