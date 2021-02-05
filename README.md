@@ -2,13 +2,15 @@
 
 I'm a machine learning engineer and data scientist with a Phd in Mathematics from the University of Georgia.
 
-Links
+#### Links
 - [Email](mailto:e.l.perkerson@gmail.com)
 - [Personal Website](https://www.ericperkerson.com/)
 - [LinkedIn](https://www.linkedin.com/in/eric-perkerson)
 - [Résumé](https://www.ericperkerson.com/resume.pdf)
 - [Leetcode](https://leetcode.com/eric-perkerson/)
 - [Stackexchange](https://stackexchange.com/users/8533489/eric-perkerson)
+
+#### Languages and Tools
 
 <p align="center">
       <a href="https://www.python.org"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/></a>
